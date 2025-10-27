@@ -1,1 +1,1 @@
-# CS-320
+I can ensure my program meets requirements by doing multiple tests with pass and fail cases to ensure the code does what its supposed to. One of the ways I ensure the requirements are met is by making a checklist and going down the line to make sure the code is accurate before continuing. I approach designing software by looking through the requirements, learning the material, and putting out a useful product that is working.
